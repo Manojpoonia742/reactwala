@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+.container {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .container ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .container li {
+    display: inline-block;
+    margin: 0 30px;
+  }
+  
+  .container a {
+    display: block;
+    padding: 15px 0;
+    color: #fff;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .container a:hover{
+    color: rgb(153, 205, 153);
+  }

@@ -1,0 +1,13 @@
+.header{
+    justify-content:space-around;
+    display: flex;
+    align-items: center;
+}
+.header h1{
+    font-family:'Courier New', Courier, monospace;
+   margin: 10px 0px;
+   color: rgb(167, 82, 247);
+}
+hr{
+    color : rgb(167, 82, 247) ;
+}
